@@ -1,0 +1,2 @@
+#define DLLINJECTOR_API __declspec(dllexport)
+#define DLLINJECTOR_API __declspec(dllimport)
